@@ -1,4 +1,4 @@
-# Storyteller
+# Storyteller [![Build Status](https://travis-ci.org/caiomoritz/storyteller.svg?branch=master)](https://travis-ci.org/caiomoritz/storyteller)
 
 BDD style DSL and test suite runner for PHP 7+
 
