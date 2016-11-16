@@ -1,6 +1,7 @@
 {
     "name": "caiomoritz/storyteller",
     "description": "BDD style DSL and test suite runner for PHP 7+",
+    "license": "Apache-2.0",
     "type": "library",
     "authors": [
         {
