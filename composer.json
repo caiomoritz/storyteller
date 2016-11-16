@@ -1,0 +1,20 @@
+{
+    "name": "caiomoritz/storyteller",
+    "description": "BDD style DSL and test suite runner for PHP 7+",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Caio Ronchi",
+            "email": "caiomoritz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Storyteller\\": ["src/"]
+        }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "bin": ["bin/storyteller"]
+}
